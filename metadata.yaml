@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '34325'
     url: http://www.gutenberg.org/2009/agents/34325
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30034#I-ll-Kill-You-Tomorrow
 gutenberg_bookshelf:
 - Science Fiction by Women
 - Science Fiction
